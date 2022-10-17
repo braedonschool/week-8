@@ -1,0 +1,44 @@
+.top-1-1 {
+    background-color: red;
+    height: 25vh
+}
+
+.top-1-2 {
+    background-color: blue;
+    height: 25vh
+}
+
+.top-2-1 {
+    background-color: rgb(196, 152, 95);
+    height: 25vh
+}
+
+.top-2-2 {
+    background-color: rgb(105, 60, 0);
+    height: 25vh
+}
+
+.top-2-3 {
+    background-color: rgb(219, 203, 109);
+    height: 25vh
+}
+
+.bottom-1-1 {
+    background-color: green;
+    height: 50vh;
+}
+
+.bottom-1-2 {
+    background-color: rgb(113, 2, 165);
+    height: 25vh;
+}
+
+.bottom-2-1 {
+    background-color: black;
+    height: 25vh;
+}
+
+.bottom-2-2 {
+    background-color: grey;
+    height: 25vh;
+}
